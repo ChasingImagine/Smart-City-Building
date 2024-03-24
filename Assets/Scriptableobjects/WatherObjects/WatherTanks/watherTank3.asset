@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b28113dfad0afc42bf8384220d43b33, type: 3}
+  m_Name: watherTank3
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 89737daee94fe9a46b591e7b738d75b0, type: 2}
+  tileSprite: {fileID: -1716887815, guid: 86d9cd0a5d16ff0478b400b93eeef805, type: 3}
+  buildingName: " b\xFCy\xFCk Su Deposu"
+  description: su depolar
+  chackTile: {fileID: 11400000, guid: 47a823f589994e0469c76e263f7122da, type: 2}
+  start:
+    money: -500
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  capastyUp:
+    money: 0
+    energy: 0
+    water: 100
+    food: 0
+    person: 0
+  daye:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  destroing:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0

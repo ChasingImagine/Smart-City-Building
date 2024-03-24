@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0f79222ff0c539143a43056049108581
+  - enabled: 1
+    path: Assets/Scenes/Survival.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Setings.unity
+    guid: 83adf6b13dff6a54ab13fe2142009b30
+  - enabled: 1
+    path: Assets/Scenes/InfinityMode.unity
+    guid: 0d248b8dac72f354d9894b90d49a2630
+  m_configObjects: {}

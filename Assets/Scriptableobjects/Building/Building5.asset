@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b28113dfad0afc42bf8384220d43b33, type: 3}
+  m_Name: Building5
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 39ce23f7dd4738442af4261b17b5abdc, type: 2}
+  tileSprite: {fileID: -279460847, guid: 0ebf5044ea5763647bab1a09d4c7af6e, type: 3}
+  buildingName: "B\xFCy\xFCk Apartman 2.0"
+  description: "ihtiya\xE7 duydugu g\u0131day\u0131 yer alt\u0131 bah\xE7\xE7elerinde
+    \xFCretir \n\ng\xFCne\u015F paneleri sayesinde kendi enerjisini kendi \xFCretir
+    \nyer alt\u0131 bh\xE7esi sebebi ile enerji artmaz"
+  chackTile: {fileID: 11400000, guid: 47a823f589994e0469c76e263f7122da, type: 2}
+  start:
+    money: -2400
+    energy: 0
+    water: 0
+    food: 0
+    person: 32
+  capastyUp:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  daye:
+    money: 1600
+    energy: 0
+    water: -12
+    food: -16
+    person: 0
+  destroing:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 32

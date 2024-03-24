@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b28113dfad0afc42bf8384220d43b33, type: 3}
+  m_Name: Geotermal0
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 3697127def25619498d4e1c90d016914, type: 2}
+  tileSprite: {fileID: 2070080404, guid: f07d5078d0f7ca14389bec15efef92b4, type: 3}
+  buildingName: "k\xFC\xE7\xFCk jeo termal eneji snatrali"
+  description: 
+  chackTile: {fileID: 11400000, guid: 47a823f589994e0469c76e263f7122da, type: 2}
+  start:
+    money: -500
+    energy: 0
+    water: 0
+    food: 0
+    person: 2
+  capastyUp:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  daye:
+    money: 0
+    energy: 100
+    water: 0
+    food: 0
+    person: 0
+  destroing:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: -2

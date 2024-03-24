@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b28113dfad0afc42bf8384220d43b33, type: 3}
+  m_Name: FarmingFiled
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: 5dcc4ebb71d99794c82d0474078ad7ac, type: 2}
+  tileSprite: {fileID: 21300000, guid: 73cd6287f59f138478bce333a5785306, type: 3}
+  buildingName: Tarla
+  description: "Besin yeti\u015Ftrmeye yarar"
+  chackTile: {fileID: 0}
+  start:
+    money: -20
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  capastyUp:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
+  daye:
+    money: 0
+    energy: 0
+    water: -1
+    food: 4
+    person: 0
+  destroing:
+    money: 0
+    energy: 0
+    water: 0
+    food: 0
+    person: 0
